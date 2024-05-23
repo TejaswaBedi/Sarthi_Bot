@@ -1,0 +1,7 @@
+langchain
+langchain_pinecone
+flask
+gunicorn
+langchain_community
+sentence-transformers
+flask_cors
