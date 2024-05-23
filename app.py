@@ -53,5 +53,3 @@ def chat():
     print("Response : ", result)
     return str(result)
     
-if __name__ == "__main__":
-    app.run(debug=True)
